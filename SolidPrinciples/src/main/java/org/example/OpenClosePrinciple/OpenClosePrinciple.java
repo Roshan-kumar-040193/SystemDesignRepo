@@ -1,7 +1,7 @@
 //as per this princple a class should be open for extention but closed for modification
 //you should be able to add new functionality without breaking the existing code
 
-package org.example.OpenClosePrinciple;
+package src.main.java.org.example.OpenClosePrinciple;
 
 public class OpenClosePrinciple {
 }
